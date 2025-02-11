@@ -1,5 +1,7 @@
 # Analysis of Pandemic’s Impact on Healthcare Systems and Happiness Index
-
+Team mates:
+Sasank Chithirala - sasankchithirala@gmail.com
+Rishik Reddy Musipatla - Rishikreddymusipatla@gmail.com
 ## 📌 Project Overview
 This project explores the impact of the COVID-19 pandemic on **global healthcare systems** and the **World Happiness Index** using **machine learning algorithms**. The study aims to analyze changes in healthcare infrastructure, medical services, and overall well-being pre and post-pandemic. It integrates multiple datasets, applies various regression and classification models, and provides insights to improve healthcare resilience for future pandemics.
 
